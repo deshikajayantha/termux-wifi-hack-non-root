@@ -33,8 +33,8 @@ Optional:
 
 ```
 apt-get install python3-pip
-git clone https://www.github.com/threat9/routersploit
-cd routersploit
+git clone https://github.com/deshikajayantha/termux-wifi-hack-non-root
+cd termux-wifi-hack-non-root
 python3 -m pip install -r requirements.txt
 python3 rsf.py
 ```
@@ -50,8 +50,8 @@ python3 rsf.py
 
 ```
 sudo apt-get install git python3-pip
-git clone https://github.com/threat9/routersploit
-cd routersploit
+git clone https://github.com/deshikajayantha/termux-wifi-hack-non-root
+cd termux-wifi-hack-non-root
 python3 -m pip install -r requirements.txt
 python3 rsf.py
 ```
